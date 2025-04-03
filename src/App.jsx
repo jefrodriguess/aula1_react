@@ -1,12 +1,12 @@
-import { HelloWorld } from "./helloWorld"
+import { HelloWorld } from "./helloWorld";
 
 function App() {
 
   return (
     <>
 
-    <h1>Eu sou feliz, </h1>
-    <h2>prospero e abundante</h2>
+    <h1>1ª aula de React </h1>
+    <h2>Mãos a obra</h2>
     <HelloWorld />
 
     </>

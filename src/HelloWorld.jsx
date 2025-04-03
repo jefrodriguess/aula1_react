@@ -1,9 +1,14 @@
+import { Frase } from "./Frase";
+
+
 export function HelloWorld(){
+    console.log(HelloWorld)
     return(
         <>
-            <h3>Gratidão</h3>
+            <h3>Meu primeiro COMPONENT</h3>
+
+            <Frase />
         </>
-    
     )
 }
 
